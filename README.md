@@ -1,8 +1,37 @@
-<h1 align="center">Hi 👋, I'm Arya Vidyananta</h1>
-<h3 align="center">I Am Student</h3>
+# Hello, I'm Arya Vidyananta 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+I'm a passionate **Full Stack Developer** with a strong focus on **Web Development** and **AI**. I love working on open-source projects and constantly improving my skills.
 
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🚀 About Me
+- 💻 **Currently working with**: React.js, Node.js, Django, Python, Docker
+- 🌱 **Currently learning**: AI, Cloud Computing
+- 🔥 **Passionate about**: Web development, open-source, machine learning, and cloud computing
+- 🔗 **Connect with me**: 
+  - [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+  - [Twitter](https://twitter.com/your-twitter)
+
+## 🔧 Skills & Technologies
+- 🖥️ **Languages**: 
+  - ![Python](https://img.shields.io/badge/Python-3.9-blue)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-React-yellow)
+  - ![SQL](https://img.shields.io/badge/SQL-blue)
+- 🔗 **Frameworks**:
+  - ![React](https://img.shields.io/badge/React-v17.0-blue)
+  - ![Node.js](https://img.shields.io/badge/Node.js-v16.0-green)
+  - ![Django](https://img.shields.io/badge/Django-v3.2.5-blue)
+- 🛠️ **Tools**: 
+  - ![Git](https://img.shields.io/badge/Git-v2.30.0-orange)
+  - ![Docker](https://img.shields.io/badge/Docker-v20.10-blue)
+  - ![VSCode](https://img.shields.io/badge/VSCode-v1.60-blue)
+  
+## 🌱 Current Projects
+- [My Portfolio](https://your-portfolio.com) 
+- [AI Chatbot Project](https://github.com/your-username/ai-chatbot)
+- [React Weather App](https://github.com/your-username/react-weather-app)
+
+## 📈 GitHub Stats
+![Ihsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)
+
+## 📝 Latest Blog Posts
+- [How to Build a Full Stack Web App with React & Node](https://your-blog-link.com)
+- [Introduction to Machine Learning](https://your-blog-link.com)
