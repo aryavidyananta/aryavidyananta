@@ -22,9 +22,9 @@
  
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryavidyananta&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryavidyananta&layout=compact&langs_count=8&theme=radical" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=aryavidyananta&theme=radical&hide_border=true&hide_current_streak=true&hide_longest_streak=true" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryavidyananta&theme=radical&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryavidyananta&layout=compact&langs_count=8&theme=radical&cache_seconds=1800" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=aryavidyananta&theme=radical&hide_border=true&cache_seconds=1800" height="150"/>
 </div>
 
 ![Visitors](https://komarev.com/ghpvc/?username=aryavidyananta&label=Profile%20Views&color=ff69b4&style=flat-square)
