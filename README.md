@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+There%2C+Welcome+to+My+Profile;I'm+Arya+Vidyananta" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Development-%23FF0080.svg?&style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
