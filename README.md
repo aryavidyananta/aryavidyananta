@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/Web%20Development-%23FF0080.svg?&style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
